@@ -1,1 +1,2 @@
 # JsCourse
+Some information
